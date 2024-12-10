@@ -3,7 +3,7 @@
 ## Chronic Disease Prediction 
 Developed a predictive model using StackingClassifier with XGBoost, Random Forest, and Logistic Regression to forecast chronic diseases, achieving a training accuracy of 60% on a multi-class dataset.
 
-Implemented hyperparameter tuning, feature selection, and label encoding techniques to improve model performance.
+Implemented hyperparameter tuning using RandomizedSearchCV, feature selection, and label encoding techniques to improve model performance.
 
 ## Statistical Analysis 
 
