@@ -7,4 +7,4 @@ Implemented hyperparameter tuning, feature selection, and label encoding techniq
 
 ## Statistical Analysis 
 
-Performed statistical analysis using ANOVA and chi-square tests to evaluate relationships between health and lifestyle variables, providing actionable insights into chronic disease risk factors.
+Performed statistical analysis using ANOVA and chi-square tests to evaluate relationships between health and lifestyle variables, providing actionable insights into factors affecting a person's health.
